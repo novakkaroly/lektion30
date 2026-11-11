@@ -1,0 +1,6 @@
+{
+  "name": "Karriere-Simulator: Beste Freunde Lektion 30",
+  "description": "Gamifizierte 3D-Lernplattform für Deutsch (Beste Freunde Lektion 30) mit interaktiver 3D-Karriere-Evolution, Sprachausgabe und Grammatik-Hilfen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
